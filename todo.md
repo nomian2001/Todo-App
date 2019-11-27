@@ -1,0 +1,7 @@
+- [x] Love Ruby
+- [ ] Help someone learn Ruby
+- [x] Learn Array
+- [x] Learn Methods
+- [x] Learn Class
+- [ ] Learn Rails
+- [ ] Publish my first website
